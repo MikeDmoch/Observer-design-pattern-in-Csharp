@@ -54,7 +54,7 @@ public class SmsSubscriber : IObserver
     }
 }
 
-class ConsoleApp4
+public class App
 {
     static void Main(string[] args)
     {
